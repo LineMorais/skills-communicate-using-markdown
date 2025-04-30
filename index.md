@@ -8,3 +8,12 @@ redatores e na documentação de projetos, o Markdown é compatível com diversa
 ## Imagem no arquivo
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Formato para código
+```
+$ git init
+Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Olá, mundo!";
+```
