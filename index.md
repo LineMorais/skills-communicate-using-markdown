@@ -4,3 +4,7 @@ Markdown é uma linguagem de marcação leve e fácil de usar, criada para forma
 Com ela, é possível criar títulos, listas, links, imagens, blocos de código e outros elementos apenas com caracteres especiais, 
 sem a necessidade de comandos complexos. Muito utilizada por desenvolvedores, 
 redatores e na documentação de projetos, o Markdown é compatível com diversas plataformas, como GitHub e ferramentas de edição online.
+
+## Imagem no arquivo
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
